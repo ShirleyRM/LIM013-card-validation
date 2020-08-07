@@ -11,7 +11,7 @@
 
 ## 1. Cómo ejecutar
 
-Esta web App es el interfaz de la marca Warmi Store :womans_clothes::leaves: una tienda de ropa peruana , en la cual encontraremos el último paso para la compra en esta página, para lo cual el usuario debe validar su tarjeta de crédito, ingresando sus datos personales: nombre de usuario y número de tarjeta :credit_card:
+Esta web App es el interfaz de la marca Warmi Store :womans_clothes::leaves: una tienda de ropa peruana :heart:, en la cual encontraremos el último paso para la compra en esta página, para lo cual el usuario debe validar su tarjeta de crédito, ingresando sus datos personales: nombre de usuario y número de tarjeta :credit_card:
 
 No se necesita descargar niguna app para poder usarla, solo es necesario acceder al siguiente link :link: https://shirleyramosm.github.io/LIM013-card-validation/src/ :point_left:
 
