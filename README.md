@@ -13,7 +13,8 @@
 
 Esta web App es el interfaz de la marca Warmi Store, una tienda de ropa peruana, en la cual encontraremos el último paso para la compra en esta página, para lo cual el usuario debe validar su tarjeta de crédito, ingresando sus datos personales: nombre de usuario y número de tarjeta.
 
-No se necesita descargar niguna app para poder usarla, solo es necesario acceder al link.
+No se necesita descargar niguna app para poder usarla, solo es necesario acceder al siguiente link: 
+https://shirleyramosm.github.io/LIM013-card-validation/src/
 
 ## 2. Resumen del proyecto
 
@@ -21,13 +22,13 @@ Este proyecto se ha desarrollado con 85% de JavaScript y 18.5% de HTML.
 
 Para la realización de la validación se utilizó el algoritmo de Luhn: 
 
-* La fórmula verifica un número contra su dígito de chequeo incluido, el cual el usualmente agregado a un número de cuenta parcial para generar el número de cuenta completo. 
+:pushpin: La fórmula verifica un número contra su dígito de chequeo incluido, el cual el usualmente agregado a un número de cuenta parcial para generar el número de cuenta completo. 
 
-* A partir del dígito de chequeo incluido, el cual está a la derecha de todo el número, ir de derecha a izquierda duplicando cada segundo dígito.
+:pushpin: A partir del dígito de chequeo incluido, el cual está a la derecha de todo el número, ir de derecha a izquierda duplicando cada segundo dígito.
 
-* Sumar los dígitos del resultado: (ejemplo: 10 = 1 + 0 = 1, 14 = 1 + 4 = 5) juntos con los dígitos sin duplicar del número original.
+:pushpin: Sumar los dígitos del resultado: (ejemplo: 10 = 1 + 0 = 1, 14 = 1 + 4 = 5) juntos con los dígitos sin duplicar del número original.
 
-* Si el total de módulo 10 es igual a 0 (si el total termina en cero), entonces el número es válido de acuerdo con la fórmula Luhn, de lo contrario no es válido.
+:pushpin: Si el total de módulo 10 es igual a 0 (si el total termina en cero), entonces el número es válido de acuerdo con la fórmula Luhn, de lo contrario no es válido.
 
 ## 3. Definición del producto
 
