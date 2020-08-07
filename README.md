@@ -11,15 +11,15 @@
 
 ## 1. Cómo ejecutar
 
-Esta web App es el interfaz de la marca Warmi Store :womans_clothes::leaves: una tienda de ropa peruana :heart:, en la cual encontraremos el último paso para la compra en esta página, para lo cual el usuario debe validar su tarjeta de crédito, ingresando sus datos personales: nombre de usuario y número de tarjeta :credit_card:
+Esta web App es el interfaz de la marca Warmi Store :womans_clothes::leaves: una tienda de ropa peruana :heart:. En la página encontraremos el último paso del proceso de compra, para lo cual el usuario debe validar su tarjeta de crédito o débito, ingresando sus datos personales: nombre de usuario y número de tarjeta :credit_card:
 
 No se necesita descargar niguna app para poder usarla, solo es necesario acceder al siguiente link :link: https://shirleyramosm.github.io/LIM013-card-validation/src/ :point_left:
 
 ## 2. Resumen del proyecto
 
-Este proyecto se ha desarrollado con 85% de JavaScript y 18.5% de HTML. :woman_technologist:
+Este proyecto se ha desarrollado con Javascript, HTML y CSS.
 
-Para la realización de la validación se utilizó el algoritmo de Luhn: 
+Para la realización de la validación se utilizó el algoritmo de Luhn, el cual consiste en: 
 
 :tulip: La fórmula verifica un número contra su dígito de chequeo incluido, el cual el usualmente agregado a un número de cuenta parcial para generar el número de cuenta completo. 
 
