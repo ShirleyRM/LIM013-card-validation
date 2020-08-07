@@ -11,7 +11,7 @@
 
 ## 1. Cómo ejecutar
 
-Esta web App es el interfaz de la marca Warmi Store  :bikini: :dress: una tienda de ropa peruana, en la cual encontraremos el último paso para la compra en esta página, para lo cual el usuario debe validar su tarjeta de crédito, ingresando sus datos personales: nombre de usuario y número de tarjeta :credit_card:
+Esta web App es el interfaz de la marca Warmi Store  :bikini::dress::leaves: una tienda de ropa peruana , en la cual encontraremos el último paso para la compra en esta página, para lo cual el usuario debe validar su tarjeta de crédito, ingresando sus datos personales: nombre de usuario y número de tarjeta :credit_card:
 
 No se necesita descargar niguna app para poder usarla, solo es necesario acceder al siguiente link :link: https://shirleyramosm.github.io/LIM013-card-validation/src/ :point_left:
 
@@ -21,17 +21,17 @@ Este proyecto se ha desarrollado con 85% de JavaScript y 18.5% de HTML. :woman_t
 
 Para la realización de la validación se utilizó el algoritmo de Luhn: 
 
-:pushpin: La fórmula verifica un número contra su dígito de chequeo incluido, el cual el usualmente agregado a un número de cuenta parcial para generar el número de cuenta completo. 
+:tulip: La fórmula verifica un número contra su dígito de chequeo incluido, el cual el usualmente agregado a un número de cuenta parcial para generar el número de cuenta completo. 
 
-:pushpin: A partir del dígito de chequeo incluido, el cual está a la derecha de todo el número, ir de derecha a izquierda duplicando cada segundo dígito.
+:tulip: A partir del dígito de chequeo incluido, el cual está a la derecha de todo el número, ir de derecha a izquierda duplicando cada segundo dígito.
 
-:pushpin: Sumar los dígitos del resultado: (ejemplo: 10 = 1 + 0 = 1, 14 = 1 + 4 = 5) juntos con los dígitos sin duplicar del número original.
+:tulip: Sumar los dígitos del resultado: (ejemplo: 10 = 1 + 0 = 1, 14 = 1 + 4 = 5) juntos con los dígitos sin duplicar del número original.
 
-:pushpin: Si el total de módulo 10 es igual a 0 (si el total termina en cero), entonces el número es válido de acuerdo con la fórmula Luhn, de lo contrario no es válido.
+:tulip: Si el total de módulo 10 es igual a 0 (si el total termina en cero), entonces el número es válido de acuerdo con la fórmula Luhn, de lo contrario no es válido.
 
 ## 3. Definición del producto
 
-Los principales usuarios de esta web App son mujeres, aunque es abierta para todo público. La marca Warmi Store es una marca de ropa para mujeres. Por ello el nombre: "Warmi" que significa Mujer en quechua, idioma nativo del Perú.
+Los principales usuarios de esta web App son mujeres , aunque es abierta para todo público. La marca Warmi Store es una marca de ropa para mujeres. Por ello el nombre: "Warmi" que significa Mujer en quechua, idioma nativo del Perú.
 
 Los objetivos de los usuarios es realizar la compra de los productos que ofrece Warmi Store, pero con una debida validación de tarjeta de crédito :credit_card:, por la seguridad del usuario. :computer:
 
@@ -41,15 +41,15 @@ Esta web App presenta la interfaz del momento posterior a la elección y ejecuci
 
 Con respecto a las mejoras, como esta interfaz de validación es el piloto de una futura web App para esta marca de ropa de mujeres peruana, se tendrá en cuenta las siguiente consideraciones:
 
-:heavy_check_mark: Presentar un interfaz de fácil acceso
+:leaves: Presentar un interfaz de fácil acceso
 
-:heavy_check_mark: Mostrar adecuadamente los productos a elegir por el usuario
+:fallen_leaf: Mostrar adecuadamente los productos a elegir por el usuario
 
-:heavy_check_mark: Incluir información de contacto, así como los precios, vistas previas de los productos y una despcripción detallada del producto.
+:leaves: Incluir información de contacto, así como los precios, vistas previas de los productos y una despcripción detallada del producto.
 
-:heavy_check_mark: El proceso de compra será ágil y amigable para evitar molestias o retrasos para los usuarios.
+:fallen_leaf: El proceso de compra será ágil y amigable para evitar molestias o retrasos para los usuarios.
 
-:heavy_check_mark: Asimismo, se mejorará la parte visual con botones mucho más interactivos y sliders con imágenes de los productos. 
+:leaves: Asimismo, se mejorará la parte visual con botones mucho más interactivos y sliders con imágenes de los productos. 
 
 ## 5. Prototipado de papel
 
