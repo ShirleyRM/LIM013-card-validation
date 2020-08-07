@@ -11,9 +11,9 @@
 
 ## 1. Cómo ejecutar
 
-Esta web App es el interfaz de la marca # Warmi Store  :bikini: :dress: una tienda de ropa peruana, en la cual encontraremos el último paso para la compra en esta página, para lo cual el usuario debe validar su tarjeta de crédito, ingresando sus datos personales: nombre de usuario y número de tarjeta.
+Esta web App es el interfaz de la marca ## Warmi Store  :bikini: :dress: una tienda de ropa peruana, en la cual encontraremos el último paso para la compra en esta página, para lo cual el usuario debe validar su tarjeta de crédito, ingresando sus datos personales: nombre de usuario y número de tarjeta.
 
-No se necesita descargar niguna app para poder usarla, solo es necesario acceder al siguiente link :point_right: :link: https://shirleyramosm.github.io/LIM013-card-validation/src/
+No se necesita descargar niguna app para poder usarla, solo es necesario acceder al siguiente link :link: https://shirleyramosm.github.io/LIM013-card-validation/src/ :point_left:
 
 ## 2. Resumen del proyecto
 
@@ -42,9 +42,13 @@ Esta web App presenta la interfaz del momento posterior a la elección y ejecuci
 Con respecto a las mejoras, como esta interfaz de validación es el piloto de una futura web App para esta marca de ropa de mujeres peruana, se tendrá en cuenta las siguiente consideraciones:
 
 :heavy_check_mark: Presentar un interfaz de fácil acceso
+
 :heavy_check_mark: Mostrar adecuadamente los productos a elegir por el usuario
+
 :heavy_check_mark: Incluir información de contacto, así como los precios, vistas previas de los productos y una despcripción detallada del producto.
+
 :heavy_check_mark: El proceso de compra será ágil y amigable para evitar molestias o retrasos para los usuarios.
+
 :heavy_check_mark: Asimismo, se mejorará la parte visual con botones mucho más interactivos y sliders con imágenes de los productos. 
 
 ## 5. Prototipado de papel
