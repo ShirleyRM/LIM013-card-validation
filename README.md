@@ -58,8 +58,10 @@ A continuación se adjuntan las imágenes del prototipado:
 
 * Pantalla 1
 
-https://user-images.githubusercontent.com/65095938/89656808-bb276480-d891-11ea-8d28-32b28cae47d2.jpeg
+![WhatsApp Image 2020-08-07 at 08 39 40](https://user-images.githubusercontent.com/65095938/89656808-bb276480-d891-11ea-8d28-32b28cae47d2.jpeg)
+
 
 * Pantalla 2
 
-https://user-images.githubusercontent.com/65095938/89656933-edd15d00-d891-11ea-8785-e5217982111e.jpeg
+![WhatsApp Image 2020-08-07 at 08 39 47](https://user-images.githubusercontent.com/65095938/89656933-edd15d00-d891-11ea-8785-e5217982111e.jpeg)
+
