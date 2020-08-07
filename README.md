@@ -11,7 +11,7 @@
 
 ## 1. Cómo ejecutar
 
-Esta web App es el interfaz de la marca ## Warmi Store  :bikini: :dress: una tienda de ropa peruana, en la cual encontraremos el último paso para la compra en esta página, para lo cual el usuario debe validar su tarjeta de crédito, ingresando sus datos personales: nombre de usuario y número de tarjeta.
+Esta web App es el interfaz de la marca Warmi Store  :bikini: :dress: una tienda de ropa peruana, en la cual encontraremos el último paso para la compra en esta página, para lo cual el usuario debe validar su tarjeta de crédito, ingresando sus datos personales: nombre de usuario y número de tarjeta :credit_card:
 
 No se necesita descargar niguna app para poder usarla, solo es necesario acceder al siguiente link :link: https://shirleyramosm.github.io/LIM013-card-validation/src/ :point_left:
 
@@ -33,9 +33,9 @@ Para la realización de la validación se utilizó el algoritmo de Luhn:
 
 Los principales usuarios de esta web App son mujeres, aunque es abierta para todo público. La marca Warmi Store es una marca de ropa para mujeres. Por ello el nombre: "Warmi" que significa Mujer en quechua, idioma nativo del Perú.
 
-Los objetivos de los usuarios es realizar la compra de los productos que ofrece Warmi Store, pero con una debida validación de tarjeta de crédito, por la seguridad del usuario.
+Los objetivos de los usuarios es realizar la compra de los productos que ofrece Warmi Store, pero con una debida validación de tarjeta de crédito :credit_card:, por la seguridad del usuario. :computer:
 
-Esta web App presenta la interfaz del momento posterior a la elección y ejecución de compra, le muestra al usuario el formulario donde debe indicar su nombre y número de tarjeta, para que así se le indique si es válidad o no y proseguir con la etapa final de pago del producto.
+Esta web App presenta la interfaz del momento posterior a la elección y ejecución de compra :shopping_cart:, le muestra al usuario el formulario donde debe indicar su nombre y número de tarjeta :pencil:, para que así se le indique si es válidad :heavy_check_mark: o no :x: y proseguir con la etapa final de pago del producto 	:money_with_wings:
 
 ## 4. Indicaciones del feedback
 
